@@ -1,3 +1,9 @@
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gauravsingh-work&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+
 # 💫 About Me:
 🌱 Interest Areas: Data Scientist | Data Analyst | Python | Business Managment | Project Managment etc.<br>👯 I’m looking to collaborate on Open Source Projects & Research in Deep Learning.<br>🥅 My Goals: Explore the more and more research of  Deep learning, and Analysis.<br>📫 Reach me at : studymail0436@gmail.com<br>💬 Ask me about Deep Learning, Python, Machine Learning and Project Managment .<br>👨‍💻 All of my projects are available at : [Gaurav Singh](https://gauravsingh.site)<br>⚡ Fun fact: Love to do unique projects and simplify concepts in Deep Learning.<br>
 
@@ -12,8 +18,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gauravsingh-work&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravsingh-work&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gauravsingh-work&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gauravsingh-work&icon=2&color=6)](https://visitcount.itsvg.in)
