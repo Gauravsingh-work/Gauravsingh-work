@@ -18,7 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Gauravsingh-work&icon=2&color=6)](https://visitcount.itsvg.in)
 
-You have finally discovered my Github profile.
+You have finally discovered my Github profile. 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 Happy Coding! 😊
 
