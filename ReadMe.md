@@ -60,13 +60,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravsingh-work&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/101575355/218337418-1e97dea8-fa11-4185-9e0b-b6c72ad6d892.gif)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gauravsingh-work&theme=discord&no-frame=false&no-bg=false&margin-w=4)
----
-[![](https://visitcount.itsvg.in/api?id=Gauravsingh-work&icon=2&color=6)](https://visitcount.itsvg.in)
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/101575355/218337418-1e97dea8-fa11-4185-9e0b-b6c72ad6d892.gif)
-
-
 ## CONNECT WITH ME
 
 
@@ -81,6 +74,14 @@
   <a href="https://twitter.com/gauravsingh2114"><img alt="Twitter" title="Vishal Seth Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gauravsingh-work&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+---
+[![](https://visitcount.itsvg.in/api?id=Gauravsingh-work&icon=2&color=6)](https://visitcount.itsvg.in)
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/101575355/218337418-1e97dea8-fa11-4185-9e0b-b6c72ad6d892.gif)
+
+
 
 </p>
    
