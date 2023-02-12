@@ -74,6 +74,9 @@
   <a href="https://twitter.com/gauravsingh2114"><img alt="Twitter" title="Vishal Seth Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 </p>
+<!--  For Animated horizontal lines -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gauravsingh-work&theme=discord&no-frame=false&no-bg=false&margin-w=4)
