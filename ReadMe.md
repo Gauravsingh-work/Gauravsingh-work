@@ -1,5 +1,5 @@
 
-[![An image of @gauravsinghwork's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsinghwork)](https://holopin.io/@gauravsinghwork)
+
 
 # 💫 About Me:
 🌱 Interest Areas: Data Scientist | Data Analyst | Python | Business Managment | Project Managment etc.<br>👯 I’m looking to collaborate on Open Source Projects & Research in Deep Learning.<br>🥅 My Goals: Explore the more and more research of  Deep learning, and Analysis.<br>📫 Reach me at : studymail0436@gmail.com<br>💬 Ask me about Deep Learning, Python, Machine Learning and Project Managment .<br>👨‍💻 All of my projects are available at : [Gaurav Singh](https://gauravsingh.site)<br>⚡ Fun fact: Love to do unique projects and simplify concepts in Deep Learning.<br>
