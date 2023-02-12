@@ -50,9 +50,21 @@
 </p>  
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/dtH89xMv5E) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mgaurav17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravsingh2112) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gauravsingh2114) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mvenmtech) 
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/101575355/218337418-1e97dea8-fa11-4185-9e0b-b6c72ad6d892.gif)
+## CONNECT WITH ME
+
+
+<p align="center">
+  <a href="https://github.com/Gauravsingh-work"><img alt="Github" title="Vishal Seth Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <p align="center">
+  <a href="www.linkedin.com/in/gauravsingh2112"><img alt="Linkedin" title="Vishal Seth Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/mgaurav17/"><img alt="Instagram" title="Vishal Seth Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ </p>
+ <p align="center">
+  <a href="mailto:studymail0436@gmail.com"><img alt="Gmail" title="Vishal Seth Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/gauravsingh2114"><img alt="Twitter" title="Vishal Seth Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+</p>
+
 
 
 ## ⚡Github Stats
@@ -68,8 +80,13 @@
 [![](https://visitcount.itsvg.in/api?id=Gauravsingh-work&icon=2&color=6)](https://visitcount.itsvg.in)
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/101575355/218337418-1e97dea8-fa11-4185-9e0b-b6c72ad6d892.gif)
 
-You have finally discovered my Github profile. 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
-Happy Coding! 😊
+</p>
+   
+  <div align="center">
 
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+<i>Happy Coding!</i> 😊
+
+</div>
 
