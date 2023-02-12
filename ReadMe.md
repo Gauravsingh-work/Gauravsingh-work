@@ -2,6 +2,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Gauravsingh-work&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 
+![greetings](https://user-images.githubusercontent.com/101575355/218305187-664b3fcb-9577-4971-b865-5dc3de7f1725.gif)
 
 
 # 💫 About Me:
