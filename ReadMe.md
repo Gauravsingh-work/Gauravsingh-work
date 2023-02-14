@@ -3,7 +3,7 @@
 <h1 align="center">Hi , I'm Gaurav Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
- <img align="right" src="https://raw.githubusercontent.com/Gauravsingh-work/Gauravsingh-work/main/developer.gif" alt="Coder GIF" width="420" height="330">
+ <img align="right" src="https://github.com/Gauravsingh-work/Gauravsingh-work/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
 ### ABOUT ME
