@@ -7,7 +7,7 @@
 
 
 ### ABOUT ME
-- 🌱 Interest Areas: Data Scientist | Data Analyst | Python | Business Managment | Project Managment etc.
+- 🌱 Interest Areas: Python Developer | Data Analyst | Data Scientist | Data Engineer etc.
 - 👯 I’m looking to collaborate on Open Source Projects & Research in Deep Learning.
 - 🥅 My Goals: Explore the more and more research of Deep learning, and Analysis.
 - 📫 Reach me at : studymail0436@gmail.com
