@@ -10,9 +10,9 @@
 - 🌱 Interest Areas: Python Developer | Data Analyst | Data Scientist | Data Engineer etc.
 - 👯 I’m looking to collaborate on Open Source Projects & Research in Deep Learning.
 - 🥅 My Goals: Explore the more and more research of Deep learning, and Analysis.
-- 📫 Reach me at : studymail0436@gmail.com
+- 📫 Reach me at : [Gaurav Singh](mailto:studymail0436@gmail.com)
 - 💬 Ask me about Deep Learning, Python, Machine Learning and Project Managment .
-- 👨‍💻 All of my projects are available at : [Gaurav Singh](https://gauravsingh.site)
+- 👨‍💻 Checkout my Featured Projects at : [Gaurav Singh]([https://gauravsingh.site](https://www.linkedin.com/in/gauravsingh2112/))
 - ⚡ Fun fact: Love to do unique projects and simplify concepts in Deep Learning.
 
  <br>
