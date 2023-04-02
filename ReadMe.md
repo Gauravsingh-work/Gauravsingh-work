@@ -12,7 +12,7 @@
 - 🥅 My Goals: Explore the more and more research of Deep learning, and Analysis.
 - 📫 Reach me at : [Gaurav Singh](mailto:studymail0436@gmail.com)
 - 💬 Ask me about Deep Learning, Python, Machine Learning and Project Managment .
-- 👨‍💻 Checkout my Featured Projects at : [Gaurav Singh]([https://gauravsingh.site](https://www.linkedin.com/in/gauravsingh2112/))
+- 👨‍💻 Checkout my Featured Projects at : [Gaurav Singh](https://www.linkedin.com/in/gauravsingh2112/)
 - ⚡ Fun fact: Love to do unique projects and simplify concepts in Deep Learning.
 
  <br>
