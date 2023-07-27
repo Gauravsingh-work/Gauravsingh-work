@@ -41,8 +41,8 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-
-
+<code><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg"></code>
 
  <br>
 <!--  For Animated horizontal lines -->
