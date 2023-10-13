@@ -67,7 +67,7 @@
   <a href="https://github.com/Gauravsingh-work"><img alt="Github" title="Gaurav Singh Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <p align="center">
   <a href="www.linkedin.com/in/gauravsingh2112"><img alt="Linkedin" title="Gaurav Singh Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/mgaurav17/"><img alt="Instagram" title="Gaurav Singh Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/_m.gaurav_/"><img alt="Instagram" title="Gaurav Singh Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
   <a href="mailto:studymail0436@gmail.com"><img alt="Gmail" title="Gaurav Singh Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
